@@ -40,14 +40,21 @@ Cada projeto representa um passo da minha evolução e será atualizado conforme
 
 ---
 
-## 🗂️ Projetos do Curso
-| **Projeto** | **Descrição** | **Arquivo** |
-|------------|---------------|-------------|
-| Aula 01 | Introdução ao Power BI e primeiros dashboards | [🔗 Ver Projeto](./aula01.pbix) |
-| Aula 02 | Power Query: Tratamento e limpeza de dados | [🔗 Ver Projeto](./aula02.pbix) |
-| Aula 03 | Modelagem de Dados e Relacionamentos | [🔗 Ver Projeto](./aula03.pbix) |
-| Aula 04 | DAX Básico: Medidas e Colunas Calculadas | [🔗 Ver Projeto](./aula04.pbix) |
-| Aula 05 | Publicação no Power BI Service | [🔗 Ver Projeto](./aula05.pbix) |
+##  Últimos 5 Projetos do Curso
+
+> Acesse diretamente cada projeto:
+
+- [🔗 **Aula 05 – Publicação no Power BI Service**](https://github.com/gabrielcerbaro/PowerBiBasico/blob/main/Aula%2005%20Publica%C3%A7%C3%A3o%20no%20Power%20BI%20Service.pbix)
+- [🔗 **Aula 04 – DAX Básico: Medidas e Colunas Calculadas**](https://github.com/gabrielcerbaro/PowerBiBasico/blob/main/Aula%2004%20DAX%20B%C3%A1sico%20Medidas%20e%20Colunas%20Calculadas.pbix)
+- [🔗 **Aula 03 – Modelagem de Dados e Relacionamentos**](https://github.com/gabrielcerbaro/PowerBiBasico/blob/main/Aula%2003%20Modelagem%20de%20Dados%20e%20Relacionamentos.pbix)
+- [🔗 **Aula 02 – Power Query: Tratamento e limpeza de dados**](https://github.com/gabrielcerbaro/PowerBiBasico/blob/main/Aula%2002%20Power%20Query%20Tratamento%20e%20limpeza%20de%20dados.pbix)
+- [🔗 **Aula 01 – Introdução ao Power BI e primeiros dashboards**](https://github.com/gabrielcerbaro/PowerBiBasico/blob/main/Aula%2001%20Introdu%C3%A7%C3%A3o%20ao%20Power%20BI%20e%20primeiros%20dashboards.pbix)
+
+---
+
+<p align="center">
+  🔗 <a href="https://github.com/gabrielcerbaro/PowerBiBasico?tab=readme-ov-file#%EF%B8%8F-projetos-do-curso">Veja todos os projetos no repositório</a>
+</p>
 
 > 📌 *Esta tabela será atualizada conforme novos projetos forem adicionados.*
 
