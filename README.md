@@ -1,6 +1,6 @@
 <!-- Banner Personalizado -->
 <p align="center" style="font-size: 42px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2E86C1; margin-top: 20px;">
-  📊 Power BI Básico — Projetos do Curso
+  --------Power BI Básico — Projetos do Curso--------
 </p>
 
 <h1 align="center">📊 Projetos do Curso Power BI Básico</h1>
