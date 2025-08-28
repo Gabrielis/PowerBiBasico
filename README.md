@@ -1,6 +1,6 @@
 <!-- Banner Personalizado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielcerbaro/PowerBiBasico/main/assets/banner-powerbi.png" alt="Power BI Básico" width="900px">
+  <img src="./A_2D_digital_graphic_banner_showcases_Gabriel_Cerb.png" alt="Power BI Básico" width="900px">
 </p>
 
 <h1 align="center">📊 Power BI Básico — Projetos do Curso</h1>
