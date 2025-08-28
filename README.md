@@ -71,16 +71,6 @@ Cada projeto representa um passo da minha evolução e será atualizado conforme
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
-<p align="center">
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&langs_count=6&theme=vision-friendly-dark" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
-  <!-- Card do Repositório -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcerbaro&repo=PowerBiBasico&theme=vision-friendly-dark" alt="Power BI Básico" />
-</p>
-
 ---
 
 ## 🌎 Vamos Conectar!
