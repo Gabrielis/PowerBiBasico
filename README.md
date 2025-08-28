@@ -1,6 +1,6 @@
 <!-- Banner Personalizado -->
 <p align="center">
-  <img src="./A_2D_digital_graphic_banner_showcases_Gabriel_Cerb.png" alt="Power BI Básico" width="900px">
+  <img src="Power BI Básico" width="900px" fontstyle="cursive">
 </p>
 
 <h1 align="center">📊 Projetos do Curso Power BI Básico</h1>
@@ -76,7 +76,7 @@ Cada projeto representa um passo da minha evolução e será atualizado conforme
 ## 🌎 Vamos Conectar!
 💼 **LinkedIn:** [Gabriel Cerbaro](https://www.linkedin.com/in/gabriel-cerbaro-4703b4239/)  
 📌 **GitHub:** [github.com/gabrielcerbaro](https://github.com/gabrielcerbaro)  
-📧 **E-mail:** gabriel.cerbaro@gmail.com  
+📧 **E-mail:** gabriel.cerbaro@outlook.com  
 
 ---
 <p align="center">🚀 Em constante aprendizado e evolução! 🚀</p>
